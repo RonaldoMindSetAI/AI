@@ -1,0 +1,5 @@
+{
+  "name": "CortexLuma AI Assistant",
+  "description": "An AI assistant powered by Gemini to help you solve anything. Ask questions, get explanations, generate code, and more in a seamless, streaming chat interface.",
+  "requestFramePermissions": []
+}
